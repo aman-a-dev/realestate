@@ -1,6 +1,6 @@
 // brand
 export const BRAND = {
-  name: "Tewil Real Estate",
+  name: "HomeGo Real Estate",
   tagline: "Where Vision Meets Address",
   founded: 2015,
   location: "Ethiopia Addis Ababa",
