@@ -1,6 +1,6 @@
 // brand
 export const BRAND = {
-  name: "HomeGo Real Estate",
+  name: "Neud Real Estate",
   tagline: "Where Vision Meets Address",
   founded: 2015,
   location: "Ethiopia Addis Ababa",
